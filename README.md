@@ -85,6 +85,12 @@ A detailed tutorial is available here:
 * By default it will use a path of /parse for the API routes. To change this, or use older client SDKs, run `scalingo env-set PARSE_MOUNT=/1`
 * Deploy it with: `git push scalingo master`
 
+### Getting Started With Docker Cloud
+
+#### With the Docker Cloud button
+
+[![Deploy to Docker Cloud](https://files.cloud.docker.com/images/deploy-to-dockercloud.svg)](https://cloud.docker.com/stack/deploy/?repo=https://github.com/ParsePlatform/parse-server-example)
+
 # Using it
 
 You can use the REST API, the JavaScript SDK, and any of our open-source SDKs:
